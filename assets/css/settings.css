@@ -3,8 +3,10 @@
     src: url("../fonts/Lucida_Bright/Lucida-Bright-Regular.ttf");
 }
 .item {
-    border-left: 1px solid #623714;
     color: #623714;
+}
+.divider {
+    border-left: 1px solid #623714;
 }
 .item-title {
     font-family: 'Lucida Bright', cursive;
